@@ -1,2 +1,2 @@
 # summerschool
-UEF Summer School 2019: Machine Learning Applied to Speech and Autonomous Agents
+UEF Summer School 2019: Deep Reinforcement Learning for Computer Games
