@@ -1,0 +1,47 @@
+<div class="container">
+<div class="row">
+
+      <div class="col-md-14">
+          <!--<h2>Chairs</h2>-->
+          
+          {% for p in site.data.people.chairs %}
+                 <div class="people">
+                      {% if p.site %} <a href="{{ p.site }}" title="website" target="_blank"> {% endif %}
+                      <div class="peoplephoto"><img src="{{ p.photo }}"></div>
+                      <div>{{ p.name }}</div>
+                      {% if p.site %} </a> {% endif %}
+                      <div> {{ p.organization }} </div>
+                </div>
+          {% endfor %}
+      </div>
+      
+      <div class="col-md-14">
+          <h2>Lecturers</h2>
+          
+          {% for p in site.data.people.lecturers %}
+                 <div class="people">
+                      {% if p.site %} <a href="{{ p.site }}" title="website" target="_blank"> {% endif %}
+                      <div class="peoplephoto"><img src="{{ p.photo }}"></div>
+                      <div>{{ p.name }}</div>
+                      {% if p.site %} </a> {% endif %}
+                      <div> {{ p.organization }} </div>
+                </div>
+          {% endfor %}
+      </div>
+
+      <div class="col-md-14">
+          <h2>Teaching Assistants</h2>
+          
+          {% for p in site.data.people.teaching_assistants %}
+                <div class="people">
+                      {% if p.site %} <a href="{{ p.site }}" title="website" target="_blank"> {% endif %}
+                      <div class="peoplephoto"><img src="{{ p.photo }}"></div>
+                      <div>{{ p.name }}</div>
+                      {% if p.site %} </a> {% endif %}
+                      <div> {{ p.organization }} </div>
+                </div>
+          {% endfor %}
+      </div>
+</div>
+</div>
+                

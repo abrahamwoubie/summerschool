@@ -1,0 +1,32 @@
+lecturers:
+- name: "Dr. Ville Hautamäki"
+  organization: "UEF"
+  topic: "Deep Reinforcement Learning for Computer Games"
+  photo: "img/ville.jpg"
+  site: "http://cs.joensuu.fi/~villeh/"
+- name: "Dr. Abraham Woubie"
+  organization: "UEF"
+  topic: "Deep Reinforcement Learning for Computer Games"
+  photo: "img/Abraham.jpg"
+  site: "https://uefconnect.uef.fi/en/person/abraham-woubie.zewoudie/"
+- name: "Dr. AliGhadirzadeh"
+  organization: "UEF"
+  topic: "Deep Reinforcement Learning for Computer Games"
+  photo: "img/ali.jpg"
+  site: "http://www.csc.kth.se/~algh/"  
+
+
+teaching_assistants:
+- name: "MSc. Anssi Kanervisto"
+  organization: "UEF"
+  photo: "img/anssi.jpg"
+
+- name: "MSc. Trung Ngo Trong"
+  organization: "UEF"
+  photo: "img/trung.jpg"
+  site: "https://github.com/trungnt13"
+
+- name: "MSc. Hannu"
+  organization: "UEF"
+  photo: "img/"
+ 

@@ -1,0 +1,31 @@
+<title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="keywords" content="uef, machine learning, speech, autonomous agents">
+{% if page.url == "/404.html" %}
+    <meta http-equiv="refresh" content="5; url=/">
+{% endif %}
+{% if page.url %}
+    {% assign url = site.url | append: site.baseurl | append: page.url %}
+{% else %}
+    {% assign url = site.url | append: site.baseurl | append: page.url %}
+{% endif %}
+<!-- Google fonts -->
+<link href='https://fonts.googleapis.com/css?family=Roboto:400,300' rel='stylesheet' type='text/css'>
+
+<!-- Bootstrap -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
+
+<link rel="alternate" type="application/rss+xml" title="{{ site.title }} RSS" href="/feed.xml" />
+<link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/css/main.css">
+
+{% if site.favicon %}
+    <link rel="icon" type="image/ico" href="{{ site.favicon_location }}">
+    <link rel="shortcut-icon" type="image/ico" href="{{ site.favicon_location }}">
+{% endif %}
+
+{% if site.google_analytics %}
+  {% include google-analytics.html %}
+{% endif %}

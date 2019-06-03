@@ -1,0 +1,83 @@
+@import "vars";
+
+.content {
+    a:hover {
+        text-decoration: underline;
+    }
+    ol {
+        counter-reset: list;
+    }
+    ol > li {
+        list-style-position: none;
+        position: relative;
+        list-style: none;
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+    ul > li {
+        margin: 5px 0 5px 0;
+    }
+    ul {
+        padding: 0 20px 0 20px;;
+    }
+    ol {
+        padding: 0 30px 0 30px;
+    }
+    ol > li:before {
+        content: "[" counter(list, decimal) "] ";
+        counter-increment: list;
+        position: absolute;
+        left: -30px;
+    }
+    blockquote {
+        //border: 1px solid black;
+        border-left: 5px solid #333333;
+        margin: 20px 0 20px 0;
+        padding: 2px 8px 2px 8px;
+        font-style: italic;
+    }
+    .people {
+        display: inline-block;
+        width: $image-size;
+        text-align: center; 
+        margin-right: 20px;
+        vertical-align: top;
+    }
+    .peoplephoto > img {
+        height: $image-height;
+        width: $image-width;
+        position: relative;
+        margin: 10px 0 10px 0;
+        float: none;
+        border-radius: 20%;
+        p & {
+            padding: 0;
+            margin: 0;
+        }
+        @media (max-width: $small-width) {
+            img {
+                margin-top: -5px;
+            }
+        }
+    }
+    img {
+        text-align: center;
+        width: 100%;
+    }
+    
+     div.col-md-14 + div.col-md-14 { 
+        margin-top: 40px;
+    }
+    
+}
+
+.topbutton {
+    a:hover {
+        text-decoration: none;
+    }
+}
+
+
+
+
+

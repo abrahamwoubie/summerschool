@@ -1,0 +1,13 @@
+title: Deep Reinforcement Learning for Computer Games
+subtitle: UEF Summer School, 2019
+url: "https://abrahamwoubie.github.io"
+subtitle_url: "http://www.uef.fi/en/web/summerschool/machine-learning-for-speech"
+baseurl: "/summerschool"
+
+markdown: kramdown
+
+google_analytics: UA-119760540-1
+
+sass:
+    style: compressed
+    sass_dir: _sass
