@@ -18,8 +18,7 @@ Learning diary questions will be added here during the course.
 
 
 ## Project work (done after the course)
-Returnables: Final report and source code (Deadline TBA) <br>
-Report and source code can be returned in Moodle.
+Returnables: Final report and source code (Deadline TBA). The report and source code can be returned in Moodle.
 
 By returning an individual project work of sufficient quality, you can get additional 2 ECTS (in total 5 ECTS).
 
