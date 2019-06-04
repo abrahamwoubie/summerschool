@@ -9,7 +9,7 @@ title: UEF Summer School 2019
 
 ## Course Overview
 <p align="justify">University of Eastern Finland (UEF) hosts a number of different summer
-courses in August 2019. The course *Machine Learning for Speech* is organized by the School
+courses in August 2019. The course <span style="color:blue"> Deep Reinforcement Learning for Computer Games </span> is organized by the School
 of Computing of the UEF. Contact teaching takes place at the Joensuu campus of the UEF from August 12th to 16th.</p>
 
 <!--The first day includes course introduction, introduction to machine
