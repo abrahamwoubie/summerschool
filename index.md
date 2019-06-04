@@ -25,11 +25,12 @@ The course is intended as a brief introduction to reinforcement learning and its
 
 **Venue:** Joensuu campus <br />
 **Dates:** 12-16 August 2019 <br />
-**Credits:** 3 or 5 ECTS <br />
+**Credits:** 3 ECTS (+ project work, 2 ECTS <br />
 **Teaching language:** English <br />
-**Level:** Doctoral, Master <br />
+**Level:** Master and doctoral students <br />
 <!--**Study materials:** [https://moodle.uef.fi/course/view.php?id=17032](https://moodle.uef.fi/course/view.php?id=17032)  <br />
 **Program codes:** [https://github.com/trungnt13/uef-summerschool2018](https://github.com/trungnt13/uef-summerschool2018)  <br />-->
+
 
 The course amounts to either 3 ECTS or 5 ECTS, depending on the mode: <br />
 
