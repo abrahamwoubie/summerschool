@@ -8,9 +8,9 @@ title: UEF Summer School 2019
 <!--**Feedback form:** [https://docs.google.com/forms/d/e/1FAIpQLSfJb1WL-Rcv17VEJPCW8U0gYI_VMf8nkEb-0phh_PQHH5l1ig/viewform](https://docs.google.com/forms/d/e/1FAIpQLSfJb1WL-Rcv17VEJPCW8U0gYI_VMf8nkEb-0phh_PQHH5l1ig/viewform)-->
 
 ## Course Overview
-University of Eastern Finland (UEF) hosts a number of different summer
+<p align="justify">University of Eastern Finland (UEF) hosts a number of different summer
 courses in August 2019. The course *Machine Learning for Speech* is organized by the School
-of Computing of the UEF. Contact teaching takes place at the Joensuu campus of the UEF from August 12th to 16th.
+of Computing of the UEF. Contact teaching takes place at the Joensuu campus of the UEF from August 12th to 16th.</p>
 
 <!--The first day includes course introduction, introduction to machine
 learning, linear mixed models and basics of deep learning for modeling
