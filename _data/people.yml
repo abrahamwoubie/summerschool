@@ -10,7 +10,7 @@ lecturers:
   photo: "img/Abraham.jpg"
   site: "https://uefconnect.uef.fi/en/person/abraham-woubie.zewoudie/"
 - name: "Dr. AliGhadirzadeh"
-  organization: "UEF"
+  organization: "KTH"
   topic: "Deep Reinforcement Learning for Computer Games"
   photo: "img/ali.jpg"
   site: "http://www.csc.kth.se/~algh/"  
