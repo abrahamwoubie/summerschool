@@ -34,7 +34,7 @@ The course is intended as a brief introduction to reinforcement learning and its
 
 The course amounts to either 3 ECTS or 5 ECTS, depending on the mode: <br />
 
-**A.** Lectures + practicals + learning diary (August 12 - 16), total 3 ECTS <br />
+**A.** Lectures + practicals + learning diary (August 12 - 14), total 3 ECTS <br />
 **B.** A. part + individual project (Completed after the course), total 5 ECTS <br />
 
 The course contains 5 days of lectures, hands on practicals, project
