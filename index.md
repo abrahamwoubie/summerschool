@@ -19,7 +19,7 @@ speech recognition, speaker diarization, speech enhancement, audio
 steganography), while the last two lecture days focus on reinforcement
 learning and autonomous software and physical agents (robots).-->
 
-The course is intended as a brief introduction to reinforcement learning and its application to different game applications. It provides an introduction to reinforcement learning, starting from the basics and ending up with advanced topics like deep reinforcement learning for video games. The course will involve lectures, practicals, project and and learning diary. While no formal pre-requirements are set, sufficient programming knowledge of Python, certain level of mathematics/statistics and neural network will be helpful for the maximum benefit of the participant.
+<p align="justify">The course is intended as a brief introduction to reinforcement learning and its application to different game applications. It provides an introduction to reinforcement learning, starting from the basics and ending up with advanced topics like deep reinforcement learning for video games. The course will involve lectures, practicals, project and and learning diary. While no formal pre-requirements are set, sufficient programming knowledge of Python, certain level of mathematics/statistics and neural network will be helpful for the maximum benefit of the participant.</p>
 
 ## General Course Information
 
