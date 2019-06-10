@@ -6,7 +6,8 @@ title: Schedule | UEF Summer School 2019
 {% include buttons.html %}
 
 
-#### The lectures will take place in AU100 (Aurora building) and the practicals will be held in MP102/MP103 (Metria building). 
+#### The lectures will take place in Joensuu Science Park TB 180 and the practicals will be held in Joensuu Science Park TB 247. 
+
 
 |                   | MON 12.8                                          | TUE 13.8                                                | WED 14.8                                          | THU 15.8                                          | FRI 16.8                                          |
 |-------------------|---------------------------------------------------|---------------------------------------------------------|---------------------------------------------------|---------------------------------------------------|---------------------------------------------------|
