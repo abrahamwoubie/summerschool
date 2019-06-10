@@ -3,8 +3,6 @@ layout: default
 title: Schedule | UEF Summer School 2019
 ---
 
-{% include buttons.html %}
-
 
 #### The lectures will take place in Joensuu Science Park TB 180 and the practicals will be held in Joensuu Science Park TB 247. 
 

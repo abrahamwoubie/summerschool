@@ -1,9 +1,11 @@
-<header class="site-header"  role="banner">
-
-    <div class="navbar">
-        <a id="navbar-title" href="{{ site.url }}{{ site.baseurl }}/">{{ site.title }}</a><br />
-        <a id="navbar-subtitle" href="{{ site.subtitle_url }}" target="_blank">{{ site.subtitle }}</a>
-    </div>
-
-</headerer>
-
+<div class="navbar">
+    <a id="navbar-title" href="{{ site.url }}{{ site.baseurl }}/">{{ site.title }}</a><br />
+    <a id="navbar-subtitle" href="{{ site.subtitle_url }}" target="_blank">{{ site.subtitle }}</a>
+    <ul id="navbar-navbuttons" class="nav navbar-nav">
+        <li><a href="{{ site.url }}{{ site.baseurl }}/index">Home</a></li>
+        <li><a href="{{ site.url }}{{ site.baseurl }}/people">People</a></li>
+        <li><a href="{{ site.url }}{{ site.baseurl }}/schedule">Schedule</a></li>
+        <li><a href="{{ site.url }}{{ site.baseurl }}/tasks">Tasks</a></li>
+        <li><a href="{{ site.url }}{{ site.baseurl }}/photos">Photos</a></li>
+    </ul>
+</div>

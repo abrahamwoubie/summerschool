@@ -3,8 +3,6 @@ layout: default
 title: Photos | UEF Summer School 2019
 ---
 
-{% include buttons.html %}
-
 Photos from the last year.
 
 ![Group photo](photos/group_photo.jpg)

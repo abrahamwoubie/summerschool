@@ -32,21 +32,47 @@ hr {
  */
 
 .navbar {
-    padding: 60px 0 60px 0;
+    padding: 40px 0 0px 0;
     text-align: center;
-    background-color: #a3bbe0;
+    background-color: #1f2833;
     margin-bottom: -20px;
 }
 #navbar-title {
-    font-size: 30px;
-    color: #272727;
+    font-size: 32px;
+    color: #66fcf1;
     display: inline-block;
+    font-weight: bold;
 }
 #navbar-subtitle {
     font-size: 20px;
-    color: #272727;
+    padding: 5px 0px 0px 0px;
+    color: #66fcf1;
+    display: inline-block;
+    font-weight: bold;
+}
+.navbar-nav{
+    padding: 10px 0px 0px 0px;
+    margin: 0px;
+    width:100%;
+    text-align: center;
+}
+.navbar-nav li{
+    text-align: center;
+    vertical-align: bottom;
+    float: none;
     display: inline-block;
 }
+.navbar-nav li a{
+    font-size: 16px;
+    font-weight: bold;
+    color: #FFFFFF;
+}
+
+.navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    background-color: #45A29E;
+}
+
+
 .alignable {
     display: inline-block;
 }

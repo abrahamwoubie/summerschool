@@ -3,7 +3,6 @@ layout: default
 title: Tasks | UEF Summer School 2019
 ---
 
-{% include buttons.html %}
 
 
 ## Learning diary
