@@ -14,12 +14,12 @@ lecturers:
   topic: "Deep Reinforcement Learning for Computer Games"
   photo: "img/ali.jpg"
   site: "http://www.csc.kth.se/~algh/"  
-
-
-teaching_assistants:
 - name: "MSc. Anssi Kanervisto"
   organization: "UEF"
   photo: "img/anssi.jpg"
+
+teaching_assistants:
+
 
 - name: "MSc. Trung Ngo Trong"
   organization: "UEF"
