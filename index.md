@@ -22,7 +22,8 @@ learning and autonomous software and physical agents (robots).-->
 ## General Course Information
 
 **Venue:** Joensuu campus <br />
-**Location: ** <img src="./map/map.png"> Mpa <br />
+**Location: ** <a href="https://github.com/abrahamwoubie/summerschool/blob/gh-pages/map/map.png">
+View map</a> <br />
 **Dates:** 12-16 August 2019 <br />
 **Credits:** 3 ECTS (+ project work, 2 ECTS) <br />
 **Teaching language:** English <br />
