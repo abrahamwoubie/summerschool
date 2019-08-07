@@ -4,7 +4,7 @@ title: Tasks | UEF Summer School 2019
 ---
 
 ## Preparing for practicals
-If you are bringing your own laptop, follow instructions on the following page before first practical session:
+If you are bringing your own laptop, follow instructions on the following page before first practical session:  ([http://cs.uef.fi/~anssk/summer19/installation.html]( http://cs.uef.fi/~anssk/summer19/installation.html))
 
 ## Learning diary
 Returnables: Filled learning diary (Deadline TBA) <br>
