@@ -3,7 +3,8 @@ layout: default
 title: Tasks | UEF Summer School 2019
 ---
 
-
+## Preparing for practicals
+If you are bringing your own laptop, follow instructions on the following page before first practical session:
 
 ## Learning diary
 Returnables: Filled learning diary (Deadline TBA) <br>
