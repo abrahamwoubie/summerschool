@@ -40,8 +40,6 @@ work and learning diary. The course will be assessed as
 pass/fail. Students who pass the course will receive a course
 certificate.
 
-**Location: ** <a href="https://github.com/abrahamwoubie/summerschool/blob/gh-pages/map/map.png">
-View map</a> <br />
 <!---
 ## Social Program
 
@@ -52,6 +50,7 @@ some of them may have a small participation fee. For more details, see
 [http://www.uef.fi/en/web/summerschool/social-programme-in-joensuu](http://www.uef.fi/en/web/summerschool/social-programme-in-joensuu).
 --> 
 
+**Location: ** <a href="https://github.com/abrahamwoubie/summerschool/blob/gh-pages/map/map.png"> View map</a> <br />
 
 
 
