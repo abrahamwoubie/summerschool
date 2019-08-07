@@ -22,7 +22,7 @@ learning and autonomous software and physical agents (robots).-->
 ## General Course Information
 
 **Venue:** Joensuu campus <br />
-**Location: ** <img src="./map/map.png"> <br />
+**Location: ** <a href="http://maps.google.com/maps?q=210+Louise+Ave,+Nashville,+TN+37203"> View map</a> <br />
 **Dates:** 12-16 August 2019 <br />
 **Credits:** 3 ECTS (+ project work, 2 ECTS) <br />
 **Teaching language:** English <br />
