@@ -22,6 +22,7 @@ learning and autonomous software and physical agents (robots).-->
 ## General Course Information
 
 **Venue:** Joensuu campus <br />
+**Location: ** ![Map](map/map.png)
 **Dates:** 12-16 August 2019 <br />
 **Credits:** 3 ECTS (+ project work, 2 ECTS) <br />
 **Teaching language:** English <br />
