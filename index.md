@@ -50,7 +50,8 @@ some of them may have a small participation fee. For more details, see
 [http://www.uef.fi/en/web/summerschool/social-programme-in-joensuu](http://www.uef.fi/en/web/summerschool/social-programme-in-joensuu).
 --> 
 
-
+## Preparing for practicals
+If you are bringing your own laptop, follow instructions on the following page before first practical session:  ([http://cs.uef.fi/~anssk/summer19/installation.html]( http://cs.uef.fi/~anssk/summer19/installation.html))
 
 
 
