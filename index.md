@@ -50,7 +50,7 @@ some of them may have a small participation fee. For more details, see
 [http://www.uef.fi/en/web/summerschool/social-programme-in-joensuu](http://www.uef.fi/en/web/summerschool/social-programme-in-joensuu).
 --> 
 
-**Location:** <a href="https://github.com/abrahamwoubie/summerschool/blob/gh-pages/map/map.png"> View map</a> <br />
+
 
 
 
