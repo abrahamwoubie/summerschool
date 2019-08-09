@@ -22,7 +22,7 @@ Returnables: Final report and source code (Deadline TBA). The report and source 
 
 By returning an individual project work of sufficient quality, you can get additional 2 ECTS (in total 5 ECTS).
 
-For the project work details, look [http://cs.uef.fi/~anssk/summer19/project_topics.html](http://cs.uef.fi/~anssk/summer19/project_topics.html)
+For the project work details, look ([http://cs.uef.fi/~anssk/summer19/project_topics.html](http://cs.uef.fi/~anssk/summer19/project_topics.html))
 
 <!--
 #### Challenge 1: Train an agent that plays Toribash
