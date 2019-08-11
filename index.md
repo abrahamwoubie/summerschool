@@ -40,9 +40,11 @@ work and learning diary. The course will be assessed as
 pass/fail. Students who pass the course will receive a course
 certificate.
 
-<!---
+
 ## Social Program
 
+For the social program, look ([http://www.uef.fi/en/web/summerschool/social-programme-in-joensuu](http://www.uef.fi/en/web/summerschool/social-programme-in-joensuu))
+<!---
 To be announced.
 
 The course involves social programme organized by the UEF. The activities will mostly be included in your course fee, but
