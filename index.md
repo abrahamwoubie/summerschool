@@ -38,7 +38,7 @@ The course amounts to either 3 ECTS or 5 ECTS, depending on the mode: <br />
 The course contains 5 days of lectures, hands on practicals, project
 work and learning diary. 
 
-You will earn 3 ECTS for attending the first week and additional 2 ECTS if you finish the project.
+You will earn 3 ECTS for attending the first week and additional 2 ECTS if you finish an additional project (See Tasks).
 
 The course will be assessed as pass/fail. Students who pass the course will receive a course certificate.
 
