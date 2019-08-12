@@ -42,7 +42,7 @@ You will earn 3 ECTS for attending the first week and additional 2 ECTS if you f
 
 The course will be assessed as pass/fail. Students who pass the course will receive a course certificate.
 
-Lecture notes and slides for the course is available on the following page: ([http://cs.uef.fi/~anssk/summer19/slides/](http://cs.uef.fi/~anssk/summer19/slides/))
+The lecture notes and slides for the course are available on the following page: ([http://cs.uef.fi/~anssk/summer19/slides/](http://cs.uef.fi/~anssk/summer19/slides/))
 ## Preparing for practicals
 If you are bringing your own laptop, follow instructions on the following page before first practical session:  ([http://cs.uef.fi/~anssk/summer19/installation.html]( http://cs.uef.fi/~anssk/summer19/installation.html))
 
