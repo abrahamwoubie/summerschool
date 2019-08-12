@@ -32,13 +32,15 @@ learning and autonomous software and physical agents (robots).-->
 
 The course amounts to either 3 ECTS or 5 ECTS, depending on the mode: <br />
 
-**A.** Lectures + practicals + learning diary (August 12 - 14), total 3 ECTS <br />
+**A.** Lectures + practicals + learning diary (August 12 - 16), total 3 ECTS <br />
 **B.** A. part + individual project (Completed after the course), total 5 ECTS <br />
 
 The course contains 5 days of lectures, hands on practicals, project
-work and learning diary. The course will be assessed as
-pass/fail. Students who pass the course will receive a course
-certificate.
+work and learning diary. 
+
+You will earn 3 ECTS for attending the first week and additional 2 ECTS if you finish the project.
+
+The course will be assessed as pass/fail. Students who pass the course will receive a course certificate.
 
 ## Preparing for practicals
 If you are bringing your own laptop, follow instructions on the following page before first practical session:  ([http://cs.uef.fi/~anssk/summer19/installation.html]( http://cs.uef.fi/~anssk/summer19/installation.html))
