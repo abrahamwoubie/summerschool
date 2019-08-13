@@ -14,7 +14,7 @@ To obtain 3 ECTS from the course, participants are required to submit a filled l
  
 The deadline for the submission of the learning diary is 30.8.2019, and answers should be returned to anssk@uef.fi with title beginning [Summer School]. 
 
-The learning diary can be accessed in the following link ([https://drive.google.com/open?id=1sJVw-ksa5ZPXGlXY6ZQT4XB-f59pE6M7OI8cV0Pd9Xc](https://drive.google.com/open?id=1sJVw-ksa5ZPXGlXY6ZQT4XB-f59pE6M7OI8cV0Pd9Xc))
+The learning diary can be accessed in the following link ([https://drive.google.com/open?id=1JO5Wlj2QlKXYAKYSynN36BxoABosfGgR](https://drive.google.com/open?id=1JO5Wlj2QlKXYAKYSynN36BxoABosfGgR))
 
 
 
@@ -22,7 +22,6 @@ The learning diary can be accessed in the following link ([https://drive.google.
 
 
 ## Project work (done after the course)
-Returnables: Final report and source code (Deadline TBA). The report and source code can be returned in Moodle.
 
 By returning an individual project work of sufficient quality, you can get additional 2 ECTS (in total 5 ECTS).
 
