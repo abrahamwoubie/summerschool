@@ -11,8 +11,10 @@ If you are bringing your own laptop, follow instructions on the following page b
 <!--Filled learning diary can be returned in Moodle ([https://moodle.uef.fi/course/view.php?id=17032](https://moodle.uef.fi/course/view.php?id=17032)). <!--([https://moodle.uef.fi/course/view.php?id=17032](https://moodle.uef.fi/course/view.php?id=17032))-->
 
 To obtain 3 ECTS from the course, participants are required to submit a filled learning diary that contains answers to different questions related to the course lectures.
+ 
+The deadline for the submission of the learning diary is 30.8.2019, and answers should be returned to anssk@uef.fi with title beginning [Summer School]. 
 
-The deadline for the submission of the learning diary is 30.8.2019, and answers should be returned to anssk@uef.fi with title beginning [Summer School].
+The learning diary can be accessed in the following link ([https://drive.google.com/open?id=1sJVw-ksa5ZPXGlXY6ZQT4XB-f59pE6M7OI8cV0Pd9Xc](https://drive.google.com/open?id=1sJVw-ksa5ZPXGlXY6ZQT4XB-f59pE6M7OI8cV0Pd9Xc))
 
 
 
