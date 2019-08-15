@@ -4,7 +4,7 @@ title: Schedule | UEF Summer School 2019
 ---
 
 
-#### The lectures will take place in AU 206 and the practicals will be held in MP 103. <br />
+#### The lectures will take place in AU 206 and the practicals (and Thu/Fri project) will be held in MP 103. <br />
 **Location:** <a href="https://raw.githubusercontent.com/abrahamwoubie/summerschool/gh-pages/map/map.png"> View map</a> <br />
 
 
